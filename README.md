@@ -63,6 +63,10 @@ To measure business performance, the following KPIs were tracked:
 - **Total Product Cost**: $2.52M
 - **Total Profit**: $3.66M
 - **Profit Margin (%)**: 59%
+  
+![KPI1](https://github.com/user-attachments/assets/403e5f55-638e-4c85-b6d4-63b3de0df8d8)
+
+![KPI2](https://github.com/user-attachments/assets/06768c03-a13f-4fa5-beed-6c976c53b1ea)
 
 ---
 
